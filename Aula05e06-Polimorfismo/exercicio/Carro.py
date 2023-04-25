@@ -1,4 +1,4 @@
-from Automovel import Automovel
+from Automovel import Automovel 
 
 class Carro(Automovel):
     def __init__(self,marca,qtdRodas,modelo,velocidade,potMotor,qtdPortas):

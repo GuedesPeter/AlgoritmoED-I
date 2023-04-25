@@ -2,7 +2,7 @@
 from Cidade import Cidade
 
 class Pessoa: #CLIENTE
-    def __init__(self,nome,fone,cidade):
+    def __init__(self,nome,fone,cidade): 
         self.id = None
         self.nome = nome
         self.fone = fone

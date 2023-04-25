@@ -1,4 +1,4 @@
-from Veiculo import Veiculo
+from Veiculo import Veiculo 
 
 class Bicicleta(Veiculo):
     def __init__(self,marca,qtdRodas,modelo,velocidade,numMarchas,bagageiro=False):

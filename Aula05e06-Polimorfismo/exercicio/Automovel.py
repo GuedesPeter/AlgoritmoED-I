@@ -1,6 +1,6 @@
 from Veiculo import Veiculo
 
-class Automovel(Veiculo):
+class Automovel(Veiculo): 
     def __init__(self,marca,qtdRodas,modelo,velocidade,potMotor):
         super().__init__(self,marca,qtdRodas,modelo,velocidade)
         self.potMotor = potMotor

@@ -1,7 +1,7 @@
 
 
 class Veiculo:
-    def __init__(self,marca,qtdRodas,modelo):
+    def __init__(self,marca,qtdRodas,modelo): 
         self.marca = marca
         self.qtdRodas = qtdRodas
         self.modelo = modelo
