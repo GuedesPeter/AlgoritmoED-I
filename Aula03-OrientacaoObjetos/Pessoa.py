@@ -9,3 +9,4 @@ class Pessoa: #CLIENTE
         
     def imprimir(self):
         print(f'Nome: {self.nome} - Fone: {self.fone} - Cidade: {self.cidade.nome}')
+ 

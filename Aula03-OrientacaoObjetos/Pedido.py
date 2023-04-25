@@ -5,7 +5,7 @@ class Pedido:
         self.cliente = cliente
         self.produtos = []
 
-
+ 
     def addProdutos(self,produto):
         self.produtos.append(produto)
         total = 0

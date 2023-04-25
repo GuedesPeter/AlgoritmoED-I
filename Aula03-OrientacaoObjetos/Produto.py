@@ -12,3 +12,4 @@ class Produto:
         print("Preço: R$", self.preco)
         print("Categoria: ", self.categoria.nome)
 
+ 
