@@ -1,7 +1,7 @@
 from Pessoa import Pessoa
 
 class Fisica(Pessoa):
-    def __init__(self,codigo,nome,endereco,telefone,cpf,idade,peso,altura):
+    def __init__(self,codigo,nome,endereco,telefone,cpf,idade,peso,altura): 
         super().__init__(codigo,nome,endereco,telefone)
         self.__cpf = cpf
         self.idade = idade

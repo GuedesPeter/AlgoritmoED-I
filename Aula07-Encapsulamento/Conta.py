@@ -1,6 +1,6 @@
 
 # # Fracamente privado (_)
-# - Fortemente tipado (__)
+# - Fortemente tipado (__) 
 
 
 class Conta:

@@ -1,6 +1,6 @@
 # # Fracamente privado (_)
 # - Fortemente tipado (__)
-
+ 
 class Pessoa:
     def __init__(self,codigo,nome,endereco,telefone):
         self.__codigo = codigo
