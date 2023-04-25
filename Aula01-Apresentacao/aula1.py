@@ -17,7 +17,7 @@ qtdeProduto = [3,4,5,6,7,8]
 def listar_produtos():
     for ind,prod in enumerate(nomeProduto):
         print(f'{ind} - {prod}')  
-
+ 
 
 #listar_produtos()
 

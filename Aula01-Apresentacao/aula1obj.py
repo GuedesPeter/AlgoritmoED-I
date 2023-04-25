@@ -1,7 +1,7 @@
 from time import sleep
 
 class Produto:
-    def __init__(self,nome,preco,qtde):
+    def __init__(self,nome,preco,qtde): 
         self.__nome = nome
         self.__preco = preco
         self.__qtde = qtde
