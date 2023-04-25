@@ -1,7 +1,7 @@
 from Computador import Computador
 
 class Notebook(Computador):
-    def __init__(self,modelo=None,cor=None,tempoDeBateria=None):
+    def __init__(self,modelo=None,cor=None,tempoDeBateria=None): 
         super().__init__(modelo,cor)
         self.__tempoDeBateria = tempoDeBateria
 

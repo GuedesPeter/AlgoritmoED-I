@@ -1,7 +1,7 @@
 from Computador import Computador
 
 class Desktop(Computador):
-    def __init__(self,modelo=None,cor=None,potenciaDaFonte=None):
+    def __init__(self,modelo=None,cor=None,potenciaDaFonte=None): 
         super().__init__(modelo,cor)
         self._potenciaDaFonte = potenciaDaFonte
 

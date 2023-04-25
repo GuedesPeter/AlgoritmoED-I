@@ -1,7 +1,7 @@
 from abc import ABC,abstractmethod
 
 class Computador(ABC):
-    def __init__(self,modelo=None,cor=None):
+    def __init__(self,modelo=None,cor=None): 
         self.modelo = modelo
         self.cor = cor
 
