@@ -1,6 +1,6 @@
 from Aluno import Aluno
 
-class AlunoGraduacao(Aluno):
+class AlunoGraduacao(Aluno): 
     def __init__(self,codigo,nome,matricula,semestre):
         super().__init__(codigo,nome,matricula)
         self.semestre = semestre

@@ -1,6 +1,6 @@
 from Pessoa import Pessoa
 #from Fisica import Fisica
-#from Cidade import Cidade
+#from Cidade import Cidade 
 
 
 class Juridica(Pessoa):

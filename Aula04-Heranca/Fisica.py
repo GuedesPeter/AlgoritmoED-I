@@ -1,6 +1,6 @@
 # FISICA é herança de pessoa
 from Pessoa import Pessoa
-#from Juridica import Juridica
+#from Juridica import Juridica 
 
 
 class Fisica(Pessoa):

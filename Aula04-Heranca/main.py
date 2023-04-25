@@ -1,6 +1,6 @@
 #from Pessoa import Pessoa
 from Cidade import Cidade
-from Fisica import Fisica
+from Fisica import Fisica 
 from Juridica import Juridica
 
 
