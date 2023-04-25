@@ -1,6 +1,6 @@
 
 class Pessoa():
-    def __init__(self,nome,idadePessoa):
+    def __init__(self,nome,idadePessoa): 
         self.nome = nome
         self.idade = idadePessoa
         self.fone = input("Digite o telefone: ")
