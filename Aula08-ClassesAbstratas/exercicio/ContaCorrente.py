@@ -1,6 +1,6 @@
 from ContaBancaria import ContaBancaria
 
-class ContaCorrente(ContaBancaria):
+class ContaCorrente(ContaBancaria): 
     def __init__(self):
         super().__init__(self)
 

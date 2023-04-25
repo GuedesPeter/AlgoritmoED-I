@@ -1,6 +1,6 @@
 from abc import ABC,abstractmethod
 
-class ContaBancaria(ABC):
+class ContaBancaria(ABC): 
     def __init__(self):
         pass
 

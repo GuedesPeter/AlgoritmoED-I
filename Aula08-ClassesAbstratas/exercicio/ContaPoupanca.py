@@ -1,6 +1,6 @@
 from ContaBancaria import ContaBancaria
 
-class ContaPoupanca(ContaBancaria):
+class ContaPoupanca(ContaBancaria): 
     def __init__(self):
         super().__init__(self)
 
